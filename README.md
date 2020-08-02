@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+bonjour
+
 I have no idea how to code but I happen to code stuff, sometimes.
