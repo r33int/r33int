@@ -1,1 +1,1 @@
-I have no idea how programming work, and I am way too lazy to even do anything. Don't expect to see anything there.
+I have no idea how programming works, and I am way too lazy to even do anything. Don't expect to see anything there.
