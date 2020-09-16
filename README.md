@@ -1,5 +1,1 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
-
-I have no idea how to code but I happen to code stuff, sometimes.
+I have no idea how programming work, and I am way too lazy to even do anything. Don't expect to see anything there.
